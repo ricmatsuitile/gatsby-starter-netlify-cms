@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: ricmatsuitile/gatsby-starter-netlify-cms
+  repo: ricmatsuitile/gatsby-starter-netlify-cms
 
 media_folder: static/img
 public_folder: /img
